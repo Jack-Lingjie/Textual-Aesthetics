@@ -7,7 +7,7 @@ n this work, we introduce a pipeline for aesthetics polishing and help construct
 Our experiments demonstrate that using textual aesthetics data and employing the TAPO fine-tuning method not only improves aesthetic scores but also enhances performance on general evaluation datasets such as AlpacalEval and Anera-hard.
 
 ## TAPO Powered Models
-The comparative analysis of our models trained with TAPO on TexAes against open-source models is shown in Table2. Our LLaMA-3.1-8B-TAPO model surpasses all open-source counterparts in both text-based and image-based text aesthetic metrics, with an 18.88% improvement in text-based scores and a 27.85% enhancement in image-based scores over the best-performing LLaMA-3.1-70B-Instruct model. 
+The comparative analysis of our models trained with TAPO on TexAes against open-source models is shown in Table2. Our LLaMA-3.1-70B-TAPO model surpasses all open-source counterparts in both text-based and image-based text aesthetic metrics, with an 18.88% improvement in text-based scores and a 27.85% enhancement in image-based scores over the best-performing LLaMA-3.1-70B-Instruct model. 
 ![Figure 2](figures/figure2.png)
 
 ## Links
