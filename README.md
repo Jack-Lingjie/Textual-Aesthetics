@@ -12,3 +12,17 @@ The comparative analysis of our models trained with TAPO on TexAes against open-
 
 ## Links
 - [TexAes](https://huggingface.co/datasets/lingjie23/TexAes)
+- [Textual Aesthetics in Large Language Models](https://arxiv.org/pdf/2411.02930)
+
+## Citation
+```
+@misc{jiang2024textualaestheticslargelanguage,
+      title={Textual Aesthetics in Large Language Models}, 
+      author={Lingjie Jiang and Shaohan Huang and Xun Wu and Furu Wei},
+      year={2024},
+      eprint={2411.02930},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.02930}, 
+}
+```
