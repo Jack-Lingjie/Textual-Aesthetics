@@ -11,8 +11,8 @@ The comparative analysis of our models trained with TAPO on TexAes against open-
 ![Figure 2](figures/figure2.png)
 
 ## Links
-- [TexAes](https://huggingface.co/datasets/lingjie23/TexAes)
-- [Textual Aesthetics in Large Language Models](https://arxiv.org/pdf/2411.02930)
+- 🤗 [TexAes](https://huggingface.co/datasets/lingjie23/TexAes)
+- 📜 [Textual Aesthetics in Large Language Models](https://arxiv.org/pdf/2411.02930)  
 
 ## Citation
 ```
